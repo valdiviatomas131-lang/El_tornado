@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Other standard entries
+# Ignore npm debug files
+npm-debug.log* 
+
+# Ignore yarn integrity file
+.yarn-integrity
+
+# Ignore build output
+/dist
+/out
+
+# Ignore temporary files
+*.tmp
+*.temp
